@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>imgges372.jpg</filename>
+	<path>C:/Users/faizy/Desktop/Real-World-Masked-Face-Dataset/images/train/imgges372.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>180</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>16</ymin>
+			<xmax>116</xmax>
+			<ymax>78</ymax>
+		</bndbox>
+	</object>
+</annotation>

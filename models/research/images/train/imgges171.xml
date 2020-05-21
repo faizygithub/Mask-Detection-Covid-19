@@ -1,0 +1,62 @@
+<annotation>
+	<folder>train</folder>
+	<filename>imgges171.jpg</filename>
+	<path>C:/Users/faizy/Desktop/Real-World-Masked-Face-Dataset/images/train/imgges171.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>46</ymin>
+			<xmax>156</xmax>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>82</ymin>
+			<xmax>71</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>221</xmin>
+			<ymin>97</ymin>
+			<xmax>251</xmax>
+			<ymax>133</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>101</ymin>
+			<xmax>18</xmax>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>with mask</folder>
+	<filename>imgges0.jpg</filename>
+	<path>C:/Users/faizy/Desktop/Real-World-Masked-Face-Dataset/images/with mask/imgges0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>180</width>
+		<height>270</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>28</ymin>
+			<xmax>118</xmax>
+			<ymax>110</ymax>
+		</bndbox>
+	</object>
+</annotation>

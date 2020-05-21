@@ -1,0 +1,86 @@
+<annotation>
+	<folder>test</folder>
+	<filename>imgges3.jpg</filename>
+	<path>C:/Users/faizy/Desktop/Real-World-Masked-Face-Dataset/images/test/imgges3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>208</width>
+		<height>243</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>4</ymin>
+			<xmax>160</xmax>
+			<ymax>26</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>49</ymin>
+			<xmax>147</xmax>
+			<ymax>80</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>96</ymin>
+			<xmax>145</xmax>
+			<ymax>122</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>139</ymin>
+			<xmax>155</xmax>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>186</ymin>
+			<xmax>137</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>220</ymin>
+			<xmax>148</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>
