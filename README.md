@@ -16,6 +16,9 @@ Here are the some example of test images
 
 ![mask15](https://user-images.githubusercontent.com/38464023/82689468-22ad1b00-9c78-11ea-8e3b-835ed20e304f.PNG)
 
+If you want to setup TFOD in you google colab notebook you can follow the below link.There is beautiful explanation of all steps
+https://c17hawke.github.io/tfod-setup/
+
 
 
 
