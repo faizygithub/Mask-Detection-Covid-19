@@ -1,8 +1,8 @@
 # Mask-Detection-Covid-19
-This year we are fighthing with corono virus which have took thousands of life till now.There are many norms we have been following like wearing mask,keep socail distancing,washing hands and so on.
+This year we are fighthing with corona virus which have took thousands of life till now.There are many norms we have been following like wearing mask,keep socail distancing,washing hands and so on.
 
 
-In this project i have build mask and without mask detetction using transfer learning which can detect weather a person wearing a mask or not in a crowded place as well.
+In this project i have build mask and without mask detection using transfer learning which can detect weather a person wearing a mask or not in a crowded place as well.
 
 Here are the some example of test images 
 
